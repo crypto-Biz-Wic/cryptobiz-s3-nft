@@ -1,4 +1,4 @@
-# CryptoBiz Session -2 
+# CryptoBiz Session -3 
 ## SmartContract & NFT Concepts
 
 This repo provides required info and references for Third session of CryptoBiz series.
